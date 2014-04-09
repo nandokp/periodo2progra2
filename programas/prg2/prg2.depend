@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1396998863 source:c:\users\manuel\desktop\programas\prg2\main.cpp
+	<iostream>
+	<stdlib.h>
+
