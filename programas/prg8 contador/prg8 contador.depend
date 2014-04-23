@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1398292564 source:c:\users\manuel\documents\github\periodo2progra2\programas\prg8 contador\main.cpp
+	<iostream>
+	<stdlib.h>
+
