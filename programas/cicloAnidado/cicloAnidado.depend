@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1398725863 source:c:\users\manuel\documents\github\periodo2progra2\programas\cicloanidado\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+
