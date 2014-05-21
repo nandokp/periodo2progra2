@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1400541108 source:c:\users\manuel\documents\github\periodo2progra2\programas\correccion exam1\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

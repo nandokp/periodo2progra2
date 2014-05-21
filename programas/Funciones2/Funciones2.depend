@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1400107870 source:c:\users\manuel\documents\github\periodo2progra2\programas\funciones2\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+
