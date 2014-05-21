@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1400655528 source:c:\users\manuel\documents\github\periodo2progra2\programas\examconregistros\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+

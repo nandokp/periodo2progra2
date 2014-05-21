@@ -30,13 +30,14 @@ double pxhora(int turno)
       break;
     }
 }
-double seguro(double sueldo)
+double seguro(double pb)
 {
-    if (sueldo>7000)
-        return 245;
+    if (pb>7000)
+       return 245;
     else
-        return 0.035*sueldo;
+     return 0.035*pb;
 }
+
 
 void ingresar(char nombre[],int &turno, int &horas)
 {
@@ -53,6 +54,7 @@ void calcular(int turno,int horas,double &pxh,double &pb,double &ihss,double &tp
 {
     pxh=pxhora(turno);
     pb=horas*pxh;
+    ihss=seguro(pb);
     tp=pb-ihss;
 }
 
