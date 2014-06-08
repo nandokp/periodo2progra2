@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1400800748 source:c:\users\manuel\documents\github\periodo2progra2\programas\arreglo4\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+

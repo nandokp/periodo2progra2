@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1401231609 source:c:\users\manuel\documents\github\periodo2progra2\programas\arreglosregistros3\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
