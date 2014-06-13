@@ -16,5 +16,15 @@ int main()
     cout<<"Valor de cortar "<<cortar<<"\n";
     cout<<"Tamaño de la cadena "<<cadena.size()<<"\n";
 
+     string insertado;
+     insertado= cadena;
+     insertado= cadena.insert(1,"juan");
+     cout<<"Valor insertado  "<<insertado<<"\n";
+
+     string reple;
+     reple="BBBBB";
+     reple=reple.replace(1,3,"Rommel");
+     cout<<"Valor ree  "<<reple<<"\n";
+
     return 0;
 }
